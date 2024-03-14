@@ -1,0 +1,17 @@
+[
+    {
+        "image":"assets/rbp.jpg",
+        "name":"Rishita",
+        "description":"Atmiya Student"
+    },
+    {
+        "image":"assets/1.jpeg",
+        "name":"Hello",
+        "description":"Atmiya Faculty"
+    },
+    {
+        "image":"assets/2.jpeg",
+        "name":"How are you?",
+        "description":" Faculty"
+    }
+]
